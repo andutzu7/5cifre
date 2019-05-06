@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1544201105 source:c:\users\vavi\documents\lse\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<time.h>
+	"buttons.h"
+	<conio.h>
+
+1544181865 c:\users\vavi\documents\lse\buttons.h
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<string.h>
+
+1544289474 source:c:\users\vavi\desktop\lse\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<time.h>
+	"buttons.h"
+	<mmsystem.h>
+	<conio.h>
+
+1544272163 c:\users\vavi\desktop\lse\buttons.h
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<string.h>
+
